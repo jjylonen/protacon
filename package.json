@@ -1,0 +1,15 @@
+{
+  "name": "Family_tree",
+  "version": "1.0.0",
+  "description": "Protaconin ohjelmointitehtävä",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjylonen/protacon.git"
+  },
+  "author": "Jirka Ylönen",
+  "license": "UNLICENSED"
+}
